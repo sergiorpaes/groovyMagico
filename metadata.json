@@ -1,0 +1,5 @@
+{
+  "name": "SAP CPI Groovy Architect",
+  "description": "An expert AI assistant for SAP CPI developers. Uses the C.O.A.C.H. framework to generate optimized, production-ready Groovy scripts through collaborative consultation.",
+  "requestFramePermissions": []
+}
